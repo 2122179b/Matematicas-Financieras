@@ -1,0 +1,365 @@
+---
+title: "Exposición del Equipo 3: Factoraje"
+author: "Aly Dalai Guerrero Padilla, Diana Berenice Jerónimo Douglas, Mary Jose Uribe Pimienta"
+format:
+  html: 
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+editor: visual
+---
+
+# Factoraje
+
+### Exposición del Equipo 3
+
+------------------------------------------------------------------------
+
+## Universidad
+
+**Universidad:** Universidad Michoacana de San Nicolás de Hidalgo **Materia:** Matemáticas Financieras
+
+------------------------------------------------------------------------
+
+## Integrantes del equipo
+
+-   Aly Dalai Guerrero Padilla
+-   Diana Berenice Jerónimo Douglas
+-   Mary Jose Uribe Pimienta
+
+------------------------------------------------------------------------
+
+En esta página encontrarás todo lo que necesitas saber acerca del factoraje. En un enfoque hacia las matemáticas financieras.
+
+### Introducción
+
+El factoraje es una herramienta que las empresas utilizan para obtener financiación, con el paso del tiempo se ha popularizado en un gran porcentaje, esto ha marcado un gran impacto en un nivel socio-económico. Durante estos últimos años el factoraje financiero ha enfrentado y con llevado de una manera eficiente su desarrollo y popularización con lo que su avance se volvió un tema fundamental a tratar.
+
+El factoraje no solo involucra la venta de facturas pendientes de cobro, sino que también aspectos de liquidez rápida y gestionamiento del flujo de efectivo.
+
+Lo que se pretende lograr en esta investigación es analizar y describir como influye el factoraje en la actualidad a las empresas, profundizando en como se lleva a cabo su cálculo financiero.
+
+### Antedentes Historicos del Factoraje
+
+#### Origenes
+
+Sus origenes se remontan a la antigua Roma, donde los comerciantes usaban factores mercantiles para administrar las ventas de sus mercancías
+
+#### Edad Media
+
+El uso de los factores mercantiles se expandió por europeas, ya que gracias a estos a traves de la exportación se empezó a promover la comercialización de los productos
+
+#### E.U.A
+
+En el siglo XIX la población (en rápida expansión) los factores empezaron a ser muy relevante para exportaciones eurpeas, especialemenete en textiles, éstos se encargaban de almacenar bienes, encontrar compradores, entregar productos y cobrar.
+
+Con el paso del tiempo, se empezaron a ofrecer préstamos garantizados con la mercancía, hasta que, posteriormente, el papel del factor cambió,ya que, ya no almacenaban, ahora financiaban con base en cuentas por cobrar.
+
+#### Europa:
+
+En el siglo XX se practicaba la cesión de facturas confidencialmente, hasta que hubo pérdidas por insolvencias y deducciones de compradores. Con el paso del tiempo y por influencia de del modelo estadounidense, se adoptó el factoraje moderno que consistía cesión de factoraje con o sin recurso, siempre con notificador al comprador.
+
+#### Asia y el Pacífico:
+
+En la década de los 80s solo se usaban cartas de crédito, luego, con mayor globalización, creció el factoraje transfronterizo y más recientemente el domestico
+
+#### Resto del mundo
+
+Por otro lado en la decada de los 70s el factoraje se expandió en Sudáfrica y en otros países. En el 2017 el comercio mundial alcanzó caso 20 billones de dolares, y factoraje generó más de 2.5 billones de euros. Impulsada por la expansión de Asia, el aumento del factoraje internacional y la transición de la banca tradicional hacia subsidiarias dedicadas al factoraje, dando paso al crecimiento global.
+
+### Antecedentes en México:
+
+#### 80s:
+
+En 1982 tras la estatización bancaria, se creó la figura de empresas de factoraje,inicialmente controladas por bancos. No había legislación específica ni supervisión de la Secreataría de Hacienda.
+
+#### 90s
+
+Reconocimiento formal en la Ley de Organizaciones y Actividades Auxiliares del Crédito, donde se agregó el capítulo "De las Empresas de Factoraje Financiero". Con esto, las empresas de factoraje pasaron a ser organizaciones auxiliares de crédito. En 1993 con el TLCAN se crearon las SOFOLES (Sociedades Financieras de Objeto Limitado), como intermediaros de propósito único, incluyendo factoraje.
+
+#### 2006
+
+Reforma legal que dio origen a las SOFOMES (Sociedades Financieras de Objeto Múltiple), con facultades para ptprgar crédito, arrendamiento financiero y factoraje financiero.
+
+### Definición
+
+El Factoraje financiero es un mecanismo de financiamiento a corto plazo mediante el cual una empresa comercial, industrial, de servicios o persona física con actividad empresarial promueve su crecimiento mediante la venta de sus cuentas por cobrar vigentes a un organismo financiero especializado.
+
+### ¿Cómo fuciona?
+
+Una organización vende sus facturas de las cuentas por cobrar a una entidad financiera que paga por ellas. De esta manera, la entidad anticipa el dinero a la empresa, mientras este se encarga de gestionar posteriormente el cobro de los derechos de cobro adquiridos. De esta manera, la organización obtiene dinero de manera inmediata mientras un tercero se encarga de gestionar el cobro posteriormente.
+
+El factoraje, lejos de funcionar como un crédito, es una transacción comercial que permite a una empresa acceder a financiamiento, incrementar su liquidez y crecer sin asumir grandes riesgos.
+
+### Tipos de factoraje
+
+#### Factoraje sin garantía o sin recurso
+
+El factoraje sin recurso implica la compraventa de facturas por el 100% del valor de las mismas menos un porcentaje o diferencia de precio sin requerir la firma de avales o garantías de ningún tipo la empresa de factorización asume totalmente el riesgo de incobrabilidad del deudor
+
+#### Factoraje con garantía o con recurso
+
+El factoraje con garantía con recurso implica la compraventa de facturas, recibiendo el cliente un anticipo financiero por una parte del valor de dichas facturas. Las facturas que desarrollan esta modalidad de factoraje no asumen el riesgo de incobrabilidad del deudor y, por ello, solicitan al cliente la firma de un vale, de un aval o de una fianza como garantía del adelanto recibido. El factoraje con recursos se asemeja a lo que comúnmente se conoce como sesión de crédito en garantía.
+
+#### Factoraje de exportación
+
+El factoraje de exportación corresponde a la compra de documentos de crédito que documentan ventas al exterior. Habitualmente la compañía que realiza el factoraje se asegura la cobrabilidad mediante un seguro de crédito con una compañía aseguradora o con otra compañía de factoraje del país del importador.
+
+#### Factoraje de importación
+
+el factoraje de importación es el aseguramiento de créditos que exportadores de un país otorgaron a importadores de otro país. Es el complemento del factoraje de importación y suele incluir los servicios de gestión de cobranza y transferencia de los fondos al país del exterior.
+
+### Fundamentos Financieros del Factoraje
+
+#### Relación con el valor del dinero en el tiempo.
+
+El factoraje permite convertir dinero futuro en dinero presente, lo cual es valioso ya que ese dinero puede ser reinvertido y utilizado para pagar obligaciones o aprovechar oportunidades inmediatas.
+
+La comisión que cobra la empresa de factoraje representa el costo del tiempo, es el precio que se paga por tener el dinero hoy en lugar de esperar.
+
+Este mecanismo refleja el principio de que el uso del dinero tiene un valor, y ese valor se mide en términos de interés o descuento.
+
+Esto se aplica en varias decisiones financieras como lo son las inversiones, los préstamos y el factoraje, que vende cuentas por cobrar anticipadamente refleja el valor del dinero en el tiempo.
+
+#### Aplicación de fórmulas de descuento simple o compuesto
+
+Descuento simple en 60 días
+
+```{r}
+# Datos
+F <- 10000   # factura
+d <- 0.20    # tasa anual 20%
+T <- 60      # plazo
+B <- 360     # base de días
+
+# Fórmula de descuento simple
+N <- F * (1 - d * T/B)
+N
+```
+
+En python:
+
+```{python}
+# Datos
+F = 10000   # Factura
+d = 0.20    # Tasa anual (20%)
+T = 60      # Plazo en días
+B = 360     # Base de días
+
+# Fórmula de descuento simple
+N = F * (1 - d * T/B)
+
+print("Neto recibido (descuento simple):", round(N, 2))
+```
+
+Descuento compuesto en 60 días
+
+```{r}
+# Datos
+F <- 10000
+d <- 0.20
+T <- 60
+B <- 360
+
+# Fórmula de descuento compuesto
+N <- F * (1 + d)^(-T/B)
+N
+```
+
+En python:
+
+```{python}
+# Datos
+F = 10000   # Factura
+d = 0.20    # Tasa anual (20%)
+T = 60      # Plazo en días
+B = 360     # Base de días
+
+# Fórmula de descuento compuesto
+N = F * (1 + d) ** (-T/B)
+
+print("Neto recibido (descuento compuesto):", round(N, 2))
+```
+
+Ahora aplicaremos el descuento simple neto en r
+
+```{r}
+# Datos base
+F <- 10000    # Factura
+d <- 0.20     # Tasa anual (20%)
+B <- 360      # Base comercial
+
+# Creamos un vector de plazos
+plazos <- c(30, 60, 90, 120)
+
+# Calculamos el neto con descuento simple para cada plazo
+N <- F * (1 - d * plazos/B)
+
+# Hacemos la gráfica
+plot(plazos, N, type="b", col="pink", pch=16,
+     main="Efectivo recibido según plazo",
+     xlab="Plazo (días)", ylab="Monto neto recibido ($)")
+```
+
+## Ventajas y Desventajas:
+
+### Ventajas:
+
+```         
+    1. Proporciona liquidez y flujo de efectivo.
+```
+
+Por medio del factoraje las empresas consiguen liquidez inmediata para la ejecución de sus operaciones, ya sea para pagar deudas, o invertir. 2. Mejora el acceso al crédito. El factoraje permite a los negocios mejorar su calificación crediticia, ya que cumplir con los pagos a tiempo es una señal de buena salud financiera, permitiéndoles que eventualmente puedan solicitar un préstamo empresarial. 3. Ahorro de tiempo y recursos. El factoraje puede reducir tiempo y los recursos necesarios para administrar y cobrar las cuentas por cobrar, ya que la entidad financiera especializada en factoring se encarga de la gestión y de las cuentas por cobrar. Y esa energía se puede redirigir a otras actividades de creación de negocios, como ventas marketing y desarrollo de clientes. 4. No genera deuda. A diferencia de los préstamos tradicionales, el factoraje no implica la creación de una deuda. Las empresas solo pagan una comisión por el servicio. 5. Posibilidad de enfrentar imprevistos. El factoraje permite a las empresas adaptarse a cambios inesperados en la demanda o en el mercado, proporcionando los recursos necesarios para responder rápidamente a nuevas oportunidades o desafíos.
+
+### Desventajas:
+
+```         
+    1. Costo alto.
+```
+
+Aunque el factoraje brinda acceso inmediato a efectivo, las empresas de factoraje suelen quedarse con entre el 1% y el 4% de una cuenta por cobrar por comisión. Además de esto, también cobran un interés sobre el anticipo de efectivo proporcionado. 2. Responsabilidad ante impago. En caso de impago, pueden existir penalizaciones que afecten a tu empresa o la relación con tu comprador.
+
+```         
+Enfoque cuantitativo / financiero.
+```
+
+```{r echo=FALSE}
+#tabla de flujo de efectivo
+flujo <- data.frame(
+  Mes = c("Enero", "Febrero", "Marzo"),
+  Sin_Factoraje = c(0, 0, 100000),
+  Con_Factoraje = c(80000, 0, 20000)
+)
+
+# Convertir los números a formato legible
+flujo$Sin_Factoraje <- format(flujo$Sin_Factoraje, big.mark = ",", scientific = FALSE)
+flujo$Con_Factoraje <- format(flujo$Con_Factoraje, big.mark = ",", scientific = FALSE)
+
+# Mostrar la tabla
+knitr::kable(flujo, caption = "Comparación de flujo de efectivo con y sin factoraje")
+```
+
+```{r echo=FALSE}
+# Cargar el paquete
+library(ggplot2)
+
+# Crear los datos
+flujo <- data.frame(
+  Mes = rep(c("Enero", "Febrero", "Marzo"), each = 2),
+  Tipo = rep(c("Sin Factoraje", "Con Factoraje"), times = 3),
+  Monto = c(0, 80000, 0, 0, 100000, 20000)
+)
+
+# Crear el gráfico
+ggplot(flujo, aes(x = Mes, y = Monto, fill = Tipo)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Comparación de flujo de efectivo con y sin factoraje",
+       y = "Monto ($)",
+       x = "Mes") +
+  scale_y_continuous(labels = scales::comma) +
+  theme_minimal()
+```
+
+## Casos reales y aplicaciones prácticas.
+
+En México son pocas las empresas que utilizan el factoraje, aunque ha tenido un aumento en los últimos años. Según la Encuesta Nacional de Financiamiento de las empresas solo el 2% de las empresas mexicanas utilizaron el factoraje financiero en 2020; sin embargo, el 97% de las empresas nunca han recurrido a esta herramienta debido, principalmente al desconocimiento.
+
+### Algunas de las empresas que otorgan factoraje son:
+
+```         
+   1. HSBC.
+```
+
+HSBC tiene la capacidad para mejorar la liquidez, controlar las transacciones, y brindar asesoramiento para mejorar la compra pagos a los proveedores y financiamiento inmediato.
+
+```         
+    2. Banco Interacciones. 
+```
+
+Esta banda comercial está estructurada para prestar servicio y acompañamientos a personas, empresas, entes gubernamentales, negocios agropecuarios, factoraje, financiamiento, etc.
+
+```         
+    3. Banorte. 
+```
+
+Tiene una gran variedad de servicios y productos, en especial su servicios de Factoraje a proveedores, pensado en brindar apoyo para que fortalezcan su manejo en tesorería, financien cuentas por pagar y otorgar a proveedores liquidez a través del sistema electrónico.
+
+```         
+    4. BBVA. 
+```
+
+Asiste los requerimientos de las empresas que desean mejorar su funcionamiento financiero.
+
+### Algunas empresas que usan facotraje son:
+
+```         
+    1. CEMEX. (Construcción)
+```
+
+Tiene una línea de factoraje con BBVA para apoyar a sus proveedores.
+
+```         
+    2. Arteche: (Equipos eléctricos)
+```
+
+Lanzó una línea de factoraje inverso sostenible con con BID Invest y eFactor para sus proveedores en México.
+
+```         
+    3. Grupo Alfa. (Manufactura)
+```
+
+Está indcrito en el programa de factoraje ofrecido por el Consejo Mexicano de Negocios y BID Invest.
+
+```         
+    4. Mabe. (Electrodomésticos)
+```
+
+Es una de las empresas registradas en CMN-BID Invest para dar acceso de factoraje inverso a sus proveedores.
+
+## Aplicaciones Actuariales y en Ciencia de Datos.
+
+El factoraje puede integrarse en modelos actuariales como en:
+
+Valor presente de facturas: Para poder estimar liquidez futura. Modelos de riesgo de impago: Utilizando regresión logística o árboles de decisión. Simulación de escenarios: ¿Qué pasa si el cliente no paga? ¿Cómo afecta eso al flujo de caja?
+
+## Oportunudades del facoraje en el futuro
+
+#### Digitalización del proceso:
+
+La automatización de facturas y documentos digitales radicen los costos y tiempos, actualmente permiten operaciones más rápidas, seguras y transparentes, las plataformas tecnologicas amplían el acceso, incluso para pequeñas empresas.
+
+#### Mayor inclusión financiera:
+
+El facoraje digital es una puerta de entrada al financiamiento para PYMES que normalmente no acceden al crédito bancario.
+
+#### Gestión eficiente de riesgos:
+
+Con herramientas digitales, las entidades financieras tienen mejor control de la información y de la solvencia de los clientes lo cual abre las puertas de ofrecer tasas mas competitivas y personalizadas.
+
+#### Agilidad y liquidez inmediata:
+
+Empresas pueden transformar facturas en efectivo con mayor rapidez, lo que fortalece su flujo de caja y su capacidad de respuesta a cambio en el mercado. ---
+
+### Conclusión
+
+Logramos observar y analizar que el factoraje es una herramienta financiera fundametal que permite a las empresas obtener liquidez inmediata, aunque implica costos que pueden ser altos, esto si el plazo es largo, además existen comisiones adicionales. Al usar las formulas del descuento simple y compuesto, logramos observar cual era el valor presente y con esto, comparar el factoraje con otras alternativas de financiamiento y así tomar mejores decisiones.
+
+El factoraje beneficia en mayor parte a las empresas que venden a crédito, aunque depende de como se analizan los costos y las condiciones del contrato. Por lo que, el factoraje no es una opción rápida de financiamiento, sino una ayuda y estrategia, la cual si es ejecutada de la manera correcta, ayuda a un crecimiento empresarial.
+
+### Fuetes Consultadas
+
+(S/f). Yaydoo.com. Recuperado el 24 de septiembre de 2025, de https://yaydoo.com/blog/finanzas-empresariales/que-es-el-factoraje-financiero/
+
+Factoraje financiero. (s/f). Scribd. Recuperado el 24 de septiembre de 2025, de https://es.scribd.com/doc/144285182/FACTORAJE-FINANCIERO
+
+DocuSign. (2023). Factoraje financiero: qué es, ejemplos y todo lo que debes saber. Recuperado de https://www.docusign.com/es-mx/blog/factoraje-financiero
+
+Contafinanzas. (2023). El valor del dinero en el tiempo. Recuperado de https://contafinanzas.org/el-valor-del-dinero-en-el-tiempo/
+
+Invekta. (2023). Factoraje financiero: Qué es, características y ejemplos. Recuperado de https://www.invekta.com.mx/blog/factoraje-financiero-que-es-caracter %C3%ADsticas-y-ejemplos
+
+Lifeder. (2023). Valor del dinero en el tiempo: qué es, importancia, cálculo, ejemplos. Recuperado de https://www.lifeder.com/valor-del-dinero-tiempo/
+
+LógicaMat. (2023). Cálculo del tiempo en matemática financiera: fórmula y ejemplos. Recuperado de https://logicamat.com/calculo-del-tiempo-en-matematica-financiera-formula-y-ejemplos/
+
+Rankia México. (2023). Matemáticas financieras: definición, fórmulas y ejemplos aplicados a la inversión. Recuperado de https://www.rankia.mx/blog/como-comenzar-invertir-bolsa/6718287-matematicas-financieras-definicion-formulas-ejemplos-aplicados-inversion Ventajas y Desventajas:
