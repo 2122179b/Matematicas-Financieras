@@ -1,0 +1,185 @@
+---
+title: "Factoraje"
+author: "Diana Berenice Jeronimo Douglas"
+format: html
+editor: visual
+---
+
+En esta página encontraras todo lo que necesitas saber acerca del factoraje. En un enfoque hacia las matemáticas financieras.
+
+### Introducción
+
+El factoraje es una herramienta que las empresas utilizan para obtener financiación, con el paso del tiempo se ha popularizado en un gran porcentaje, esto ha marcado un gran impacto en un nivel socio-económico. Durante estos últimos años el factoraje financiero ha enfrentado y con llevado de una manera eficiente su desarrollo y popularización con lo que su avance se volvió un tema fundamental a tratar.
+
+El factoraje no solo involucra la venta de facturas pendientes de cobro, sino que también aspectos de liquidez rápida y gestionamiento del flujo de efectivo.
+
+Lo que se pretende lograr en esta investigación es analizar y describir como influye el factoraje en la actualidad a las empresas, profundizando en como se lleva a cabo su cálculo financiero.
+
+### Definición
+
+El Factoraje financiero es un mecanismo de financiamiento a corto plazo mediante el cual una empresa comercial, industrial, de servicios o persona física con actividad empresarial promueve su crecimiento mediante la venta de sus cuentas por cobrar vigentes a un organismo financiero especializado.
+
+### ¿Cómo fuciona?
+
+Una organización vende sus facturas de las cuentas por cobrar a una entidad financiera que paga por ellas. De esta manera, la entidad anticipa el dinero a la empresa, mientras este se encarga de gestionar posteriormente el cobro de los derechos de cobro adquiridos. De esta manera, la organización obtiene dinero de manera inmediata mientras un tercero se encarga de gestionar el cobro posteriormente.
+
+El factoraje, lejos de funcionar como un crédito, es una transacción comercial que permite a una empresa acceder a financiamiento, incrementar su liquidez y crecer sin asumir grandes riesgos.
+
+### Tipos de factoraje
+
+#### Factoraje sin garantía o sin recurso
+
+El factoraje sin recurso implica la compraventa de facturas por el 100% del valor de las mismas menos un porcentaje o diferencia de precio sin requerir la firma de avales o garantías de ningún tipo la empresa de factorización asume totalmente el riesgo de incobrabilidad del deudor
+
+#### Factoraje con garantía o con recurso
+
+El factoraje con garantía con recurso implica la compraventa de facturas, recibiendo el cliente un anticipo financiero por una parte del valor de dichas facturas. Las facturas que desarrollan esta modalidad de factoraje no asumen el riesgo de incobrabilidad del deudor y, por ello, solicitan al cliente la firma de un vale, de un aval o de una fianza como garantía del adelanto recibido. El factoraje con recursos se asemeja a lo que comúnmente se conoce como sesión de crédito en garantía.
+
+#### Factoraje de exportación
+
+El factoraje de exportación corresponde a la compra de documentos de crédito que documentan ventas al exterior. Habitualmente la compañía que realiza el factoraje se asegura la cobrabilidad mediante un seguro de crédito con una compañía aseguradora o con otra compañía de factoraje del país del importador.
+
+#### Factoraje de importación
+
+el factoraje de importación es el aseguramiento de créditos que exportadores de un país otorgaron a importadores de otro país. Es el complemento del factoraje de importación y suele incluir los servicios de gestión de cobranza y transferencia de los fondos al país del exterior.
+
+### Fundamentos Financieros del Factoraje
+
+#### Relación con el valor del dinero en el tiempo.
+
+El factoraje permite convertir dinero futuro en dinero presente, lo cual es valioso ya que ese dinero puede ser reinvertido y utilizado para pagar obligaciones o aprovechar oportunidades inmediatas.
+
+La comisión que cobra la empresa de factoraje representa el costo del tiempo, es el precio que se paga por tener el dinero hoy en lugar de esperar.
+
+Este mecanismo refleja el principio de que el uso del dinero tiene un valor, y ese valor se mide en términos de interés o descuento.
+
+Esto se aplica en varias decisiones financieras como lo son las inversiones, los préstamos y el factoraje, que vende cuentas por cobrar anticipadamente refleja el valor del dinero en el tiempo.
+
+#### Aplicación de fórmulas de descuento simple o compuesto
+
+Descuento simple en 60 días
+
+```{r, eval= FALSE}
+# Datos
+F <- 10000   # factura
+d <- 0.20    # tasa anual 20%
+T <- 60      # plazo
+B <- 360     # base de días
+
+# Fórmula de descuento simple
+N <- F * (1 - d * T/B)
+N
+```
+
+En python:
+
+```{python, eval= FALSE }
+# Datos
+F = 10000   # Factura
+d = 0.20    # Tasa anual (20%)
+T = 60      # Plazo en días
+B = 360     # Base de días
+
+# Fórmula de descuento simple
+N = F * (1 - d * T/B)
+
+print("Neto recibido (descuento simple):", round(N, 2))
+```
+
+Descuento compuesto en 60 días
+
+```{r, eval= FALSE}
+# Datos
+F <- 10000
+d <- 0.20
+T <- 60
+B <- 360
+
+# Fórmula de descuento compuesto
+N <- F * (1 + d)^(-T/B)
+N
+```
+
+En python:
+
+```{python, eval= FALSE}
+# Datos
+F = 10000   # Factura
+d = 0.20    # Tasa anual (20%)
+T = 60      # Plazo en días
+B = 360     # Base de días
+
+# Fórmula de descuento compuesto
+N = F * (1 + d) ** (-T/B)
+
+print("Neto recibido (descuento compuesto):", round(N, 2))
+```
+
+Ahora aplicaremos el descuento simple neto en r
+
+```{r, eval= FALSE}
+# Datos base
+F <- 10000    # Factura
+d <- 0.20     # Tasa anual (20%)
+B <- 360      # Base comercial
+
+# Creamos un vector de plazos
+plazos <- c(30, 60, 90, 120)
+
+# Calculamos el neto con descuento simple para cada plazo
+N <- F * (1 - d * plazos/B)
+
+# Hacemos la gráfica
+plot(plazos, N, type="b", col="pink", pch=16,
+     main="Efectivo recibido según plazo",
+     xlab="Plazo (días)", ylab="Monto neto recibido ($)")
+
+```
+
+Ahora lo haremos con python
+
+```{python, eval= FALSE}
+import matplotlib.pyplot as plt
+%pip install matplotlib
+# Datos base
+F = 10000   # Factura
+d = 0.20    # Tasa anual 20%
+B = 360     # Base comercial
+plazos = [30, 60, 90, 120]
+
+# Cálculo del neto con descuento simple
+N = [F * (1 - d*t/B) for t in plazos]
+
+# Gráfica
+plt.plot(plazos, N, marker='o', color='pink')
+plt.title("Efectivo recibido según plazo (Python)")
+plt.xlabel("Plazo (días)")
+plt.ylabel("Monto neto recibido ($)")
+plt.grid(True)
+plt.show()
+
+```
+
+### Conclusión
+
+Logramos observar y analizar que el factoraje es una herramienta financiera fundametal que permite a las empresas obtener liquidez inmediata, aunque implica costos que pueden ser altos, esto si el plazo es largo, además existen comisiones adicionales. Al usar las formulas del descuento simple y compuesto, logramos observar cual era el valor presente y con esto, comparar el factoraje con otras alternativas de financiamiento y así tomar mejores decisiones.
+
+El factoraje beneficia en mayor parte a las empresas que venden a crédito, aunque depende de como se analizan los costos y las condiciones del contrato. Por lo que, el factoraje no es una opción rápida de financiamiento, sino una ayuda y estrategia, la cual si es ejecutada de la manera correcta, ayuda a un crecimiento empresarial.
+
+### Fuetes Consultadas
+
+(S/f). Yaydoo.com. Recuperado el 24 de septiembre de 2025, de https://yaydoo.com/blog/finanzas-empresariales/que-es-el-factoraje-financiero/
+
+Factoraje financiero. (s/f). Scribd. Recuperado el 24 de septiembre de 2025, de https://es.scribd.com/doc/144285182/FACTORAJE-FINANCIERO
+
+DocuSign. (2023). Factoraje financiero: qué es, ejemplos y todo lo que debes saber. Recuperado de https://www.docusign.com/es-mx/blog/factoraje-financiero
+
+Contafinanzas. (2023). El valor del dinero en el tiempo. Recuperado de https://contafinanzas.org/el-valor-del-dinero-en-el-tiempo/
+
+Invekta. (2023). Factoraje financiero: Qué es, características y ejemplos. Recuperado de https://www.invekta.com.mx/blog/factoraje-financiero-que-es-caracter %C3%ADsticas-y-ejemplos
+
+Lifeder. (2023). Valor del dinero en el tiempo: qué es, importancia, cálculo, ejemplos. Recuperado de https://www.lifeder.com/valor-del-dinero-tiempo/
+
+LógicaMat. (2023). Cálculo del tiempo en matemática financiera: fórmula y ejemplos. Recuperado de https://logicamat.com/calculo-del-tiempo-en-matematica-financiera-formula-y-ejemplos/
+
+Rankia México. (2023). Matemáticas financieras: definición, fórmulas y ejemplos aplicados a la inversión. Recuperado de https://www.rankia.mx/blog/como-comenzar-invertir-bolsa/6718287-matematicas-financieras-definicion-formulas-ejemplos-aplicados-inversion
